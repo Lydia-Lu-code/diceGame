@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		003876F9246EF7CE0072D3A5 /* shakeVoice.wav in Resources */ = {isa = PBXBuildFile; fileRef = 003876F8246EF7CE0072D3A5 /* shakeVoice.wav */; };
 		003E3C7E2469A91500CED450 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003E3C7D2469A91500CED450 /* AppDelegate.swift */; };
 		003E3C802469A91500CED450 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003E3C7F2469A91500CED450 /* SceneDelegate.swift */; };
 		003E3C822469A91500CED450 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 003E3C812469A91500CED450 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		003876F8246EF7CE0072D3A5 /* shakeVoice.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = shakeVoice.wav; sourceTree = "<group>"; };
 		003E3C7A2469A91500CED450 /* diceGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = diceGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		003E3C7D2469A91500CED450 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		003E3C7F2469A91500CED450 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				003E3C862469A91900CED450 /* Assets.xcassets */,
 				003E3C882469A91900CED450 /* LaunchScreen.storyboard */,
 				003E3C8B2469A91900CED450 /* Info.plist */,
+				003876F8246EF7CE0072D3A5 /* shakeVoice.wav */,
 			);
 			path = diceGame;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				003876F9246EF7CE0072D3A5 /* shakeVoice.wav in Resources */,
 				003E3C8A2469A91900CED450 /* LaunchScreen.storyboard in Resources */,
 				003E3C872469A91900CED450 /* Assets.xcassets in Resources */,
 				003E3C852469A91500CED450 /* Main.storyboard in Resources */,
